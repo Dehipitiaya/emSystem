@@ -1,0 +1,8 @@
+package com.example.employeems.dto;
+
+public class EmployeeDTO {
+    private int emID;
+    private String empName;
+    private String empAddress;
+    private String empNumber;
+}
